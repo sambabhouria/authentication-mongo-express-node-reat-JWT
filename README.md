@@ -1,5 +1,5 @@
-mongo-express-react-node-authentication
-Minimal full-stack MERN authentication using JWTs.
+# Mongo-express-react-node-authentication
+## Minimal full-stack MERN authentication using JWTs.
 
 Technology Stack:
 Node js
@@ -10,7 +10,7 @@ React
 Usage
 "/.env" update the values/settings to your own
 
-Install Dependencies
+# Install Dependencies
 // Install dependencies for server
 npm install
 
